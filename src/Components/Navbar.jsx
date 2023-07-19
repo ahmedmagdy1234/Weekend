@@ -20,7 +20,7 @@ setNav(!Nav)
 
 <ul className='hidden sm:flex px-4 '>
     <li>
-<a href="/"> Home</a>        
+<a href=""> Home</a>        
     </li>
     <li>
 <a href="#gallery"> Gallery</a>        
